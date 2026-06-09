@@ -3,6 +3,7 @@
 ### Інструменти: Tableau Public, SQL
 ### Дані: Відкриті дані платформи ProZorro, Львівська міська рада
 ### Період: 2018–2025 р.р.
+### Переглянути код SQL <a href="https://drive.google.com/file/d/193vofGcB8eD-A5I5g5QjiLNjV0V7Knsm/view?usp=sharing" >Код SQL</a>
 ### Переглянути на Tableau Public  <a href="https://public.tableau.com/views/ProZorro/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Дашборд</a>
 # Про що цей проєкт
 ### Це комплексне дослідження системи публічних закупівель Львівської міської ради на основі відкритих даних ProZorro. Проєкт охоплює 231 607 закупівельних процедур загальним обсягом 53,8 млрд грн і відповідає на одне головне запитання: наскільки ефективна та прозора система закупівель і де приховані ризики?
